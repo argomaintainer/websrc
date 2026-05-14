@@ -1,13 +1,15 @@
 {
   "id": "sysu-bbs-websrc",
-  "update_time": "2026-05-14T21:33:20+08:00",
+  "update_time": "2026-05-14T21:47:33+08:00",
   "update_executor": "ltaoist",
   "commit_sha": "6f8116187e8dabb155820d03cb8eb3574168ac11",
   "names": [
     "argo（web版）",
     "argo（旧版web）"
   ],
-  "formal_names": [],
+  "formal_names": [
+    "中山大学逸仙时空BBS（web）"
+  ],
   "planning": "",
   "description": "",
   "formal_description": "",
