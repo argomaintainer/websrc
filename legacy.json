@@ -1,0 +1,23 @@
+{
+  "id": "sysu-bbs-websrc",
+  "update_time": "2026-05-14T21:33:20+08:00",
+  "update_executor": "ltaoist",
+  "commit_sha": "6f8116187e8dabb155820d03cb8eb3574168ac11",
+  "names": [
+    "argo（web版）",
+    "argo（旧版web）"
+  ],
+  "formal_names": [],
+  "planning": "",
+  "description": "",
+  "formal_description": "",
+  "available_times": [],
+  "documentation": "",
+  "milestones": [],
+  "keywords": [],
+  "resources": [],
+  "influencers": [],
+  "extras": [],
+  "disciplines": [],
+  "subsequents": []
+}
